@@ -60,13 +60,17 @@ When it comes to the *Outcomes Based on Goal* worsheet, the challenge there is t
 
 ## Results
 - Outcomes based on Launch Date
+
 Based on the chart we can conclude that from 2009 to 2017, the month of May has been the best time to launch a crowdfunding campaign. At the same time, December seems to be the worst time to start a gampaign.
 
 - Outcomes based on Goals
+
 Based on the chart we can conclude that all (100%) campaigns between $45,000 and $49,000 were unsuccessul. In fact, most successful campaign seems to be below $5,000, with 75% of successful campaigns being for less than $1,000.
 
 - Limitations of this dataset
+
 In my opinion, some of the limitations with this data set come with the lack of additional factors, aside from time and goal, to truly understand what makes a campaign successful. 
 
 - Possible tables and/or graphs that we could create
+
 There are many other charts that can be used to visualize this data set. For example, we could create **clustered columns** or **bars** to visualize the percentage of successful campaigns for less than $1,000, **pies** to see the percentage of successful campaign launched in January. In any case, the most important thing is to choose the right graphs to visualize the data. Chhosing the worong visualization tool could cause confusion with the viewer or lead to mistaken data interpretation.
